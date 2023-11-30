@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zhangyufeng&theme=icegray)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zhangyufeng&theme=icegray)](https://git.io/streak-stats) -->
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyufeng0123&layout=compact" />
+</div>
